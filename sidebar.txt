@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nas:home|Door43 (nas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nas|d43-nas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nas/archive/master.zip|d43-nas.zip]]
+
+**Recent Changes**
+{{changes>ns = nas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nas|Ethnologue data]]
+
